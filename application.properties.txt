@@ -1,0 +1,2 @@
+location=Mumbai
+Product=tyres

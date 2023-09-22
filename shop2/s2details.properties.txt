@@ -1,0 +1,3 @@
+location=Worli
+product=tyres
+quantity=400
